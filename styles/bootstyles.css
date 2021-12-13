@@ -1,0 +1,29 @@
+
+/*Mirabella Lassiter, December 12th*/
+
+
+h1 {
+    color:rgb(114, 219, 245);
+    text-align: center;
+    text-size-adjust: 68px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+body{
+    color:orange;
+    text-decoration:bold;
+    text-align: left;
+}
+
+
+
+.footer {
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom: 0px;
+    border-top: 2px solid grey;
+    text-align: center;
+    color: Black;
+    background-color:white;
+}
